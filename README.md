@@ -35,3 +35,7 @@ Our main idea is to provide a platform that follows the rules and regulations of
 
 ![](assets/images/admin.png)
 
+**LINK TO ACCESS THE APPLICATION :**
+https://leave-application-management.000webhostapp.com/
+
+
