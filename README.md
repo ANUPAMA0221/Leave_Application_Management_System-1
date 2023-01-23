@@ -12,7 +12,7 @@ Our main idea is to provide a platform that follows the rules and regulations of
 
 *Credentials :*
 
-|Credentials| Normal Faculty | Approbating Faculty | Super user | Admin |
+|Credentials| Normal Faculty | Superior Faculty | Super user | Admin |
 |:---:|:---:|:---:|:---:|:---:|
 |Username | anupama|pranay_s| Director| admin|
 |password | 2k2201|hodcse| director123| admin123|
